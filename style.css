@@ -13,11 +13,13 @@
   display: flex;
   justify-content: center;
   text-align: center;
-  border: 15px;
-  margin: 20px;
+  border: 50px;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 100%;
   background-color: #3b1de6;
   border-radius: 10px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: rgb(97, 177, 241);
 }
 
@@ -29,6 +31,7 @@
   height: 10vh;
   font-size: 1.5rem;
   color: rgb(248, 126, 11);
+  margin-bottom: 30px;
 }
 
 .p-color {
@@ -39,13 +42,13 @@
 .content {
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 90%;
   margin: auto;
   text-align: center;
   gap: 10px;
-  height: 20vh;
+  height: 35vh;
   margin-top: 20px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 
 .maps {
